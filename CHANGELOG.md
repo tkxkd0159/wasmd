@@ -2,7 +2,12 @@
 
 ## [Unreleased](https://github.com/CosmWasm/wasmd/tree/HEAD)
 
-[Full Changelog](https://github.com/CosmWasm/wasmd/compare/v0.28.0...HEAD)
+[Full Changelog](https://github.com/CosmWasm/wasmd/compare/v0.28.1...HEAD)
+
+## [v0.28.1](https://github.com/CosmWasm/wasmd/tree/v0.28.0) (2022-09-06)
+[Full Changelog](https://github.com/CosmWasm/wasmd/compare/v0.28.0...v0.28.1)
+- Upgrade to [Cosmos-SDK v0.45.8](https://github.com/cosmos/cosmos-sdk/releases/tag/v0.45.8)
+- Upgrade to Go v1.18 due to SDK dependency
 
 ## [v0.28.0](https://github.com/CosmWasm/wasmd/tree/v0.28.0) (2022-07-29)
 
